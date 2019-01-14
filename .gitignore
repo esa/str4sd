@@ -1,0 +1,9 @@
+node_modules/
+tmp/
+data/
+processed/
+!processed/imgs/
+processed/imgs/*
+*.dat
+*.json
+!package-lock.json
