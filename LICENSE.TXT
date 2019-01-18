@@ -1,0 +1,11 @@
+The images are released under the Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) licence.
+
+The user is allowed to reproduce, distribute, adapt, translate and publicly perform this publication, without explicit permission, provided that the content is accompanied by:
+* an acknowledgement that the source is credited as ESA/SWARM – CC BY-SA 4.0,
+* a direct link to the licence text,
+* clear indications if changes were made to the original content.
+Adaptation/translation/derivatives must be distributed under the same licence terms as this publication.
+The user must not give any suggestion that ESA necessarily endorses the modifications that you have made.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+To view a copy of this license, please visit https://creativecommons.org/licenses/by-sa/4.0/?
